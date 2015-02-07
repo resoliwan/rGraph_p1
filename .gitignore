@@ -1,2 +1,5 @@
 .idea
-
+.DS_Store
+.household_power_consumption.txt
+exdata-data-household_power_consumption.zip
+.data
